@@ -1,0 +1,7 @@
+C:\Users\ballo\source\repos\Tarea#2\Proyecto Tarea 2\obj\Debug\Tarea#2.csproj.AssemblyReference.cache
+C:\Users\ballo\source\repos\Tarea#2\Proyecto Tarea 2\obj\Debug\Tarea#2.csproj.CoreCompileInputs.cache
+C:\Users\ballo\source\repos\Tarea#2\Proyecto Tarea 2\obj\Debug\ConsoleApp1.exe
+C:\Users\ballo\source\repos\Tarea#2\Proyecto Tarea 2\obj\Debug\ConsoleApp1.pdb
+C:\Users\ballo\source\repos\Tarea#2\Proyecto Tarea 2\bin\Debug\ConsoleApp1.exe.config
+C:\Users\ballo\source\repos\Tarea#2\Proyecto Tarea 2\bin\Debug\ConsoleApp1.exe
+C:\Users\ballo\source\repos\Tarea#2\Proyecto Tarea 2\bin\Debug\ConsoleApp1.pdb
